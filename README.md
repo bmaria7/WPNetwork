@@ -1,5 +1,5 @@
 # WP
-This repository is to get the data and codes that I used in my Working Papers
+This repository contains the datasets and source code used in my working papers.
 
 Please follow the steps below to run the .m code:
 
