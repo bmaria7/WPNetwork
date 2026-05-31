@@ -5,4 +5,5 @@ Please follow the steps below to run the .m code:
 
 1. Run FirstStep.
 2. Run SecondStep.
-3. Run FourthStep.
+3. Run ThirthStep.
+4. Run FourthStep.
